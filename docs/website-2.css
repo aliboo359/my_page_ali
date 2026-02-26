@@ -1,0 +1,33 @@
+body{
+    background:orange;
+    color:#ED7117;
+    margin:100px;
+    font-family: fantasy
+}
+p{
+color: #708238;
+}
+img {
+    border:1 px solid #ddd;
+    border-radius: 4 px;
+    padding: 5 px;
+}
+.title {
+    color: darkred;
+    text-align: center;
+}
+
+.highlight {
+    color: green;
+    font-weight: bold;
+}
+
+.special {
+    background-color: yellow;
+    padding: 5px;
+}
+
+.monkey {
+    width: 300px;
+    border: 3px solid black;
+}
